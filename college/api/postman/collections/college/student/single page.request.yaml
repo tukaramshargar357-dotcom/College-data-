@@ -1,0 +1,10 @@
+$kind: http-request
+name: single page
+url: http://localhost/projet/college/staf/single.php?id=4
+method: GET
+queryParams:
+  - key: id
+    value: "4"
+    disabled: false
+    description: ""
+order: 1785935208555

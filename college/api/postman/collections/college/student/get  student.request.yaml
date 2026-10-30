@@ -1,0 +1,5 @@
+$kind: http-request
+name: get  student
+url: http://localhost/projet/college/api/student.php
+method: GET
+order: 816665718429189
